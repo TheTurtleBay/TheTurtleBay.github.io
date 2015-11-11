@@ -1,0 +1,79 @@
+#top_bar {
+    width:100%;
+    position: fixed;
+    top:0px;
+    left:0px;
+}
+
+#website_header_a {
+    padding : 10px;
+    background-color: #0099ff ;
+    border-bottom: 10px solid #ffffff;
+
+    border-bottom-right-radius: 10em;
+    border-bottom-left-radius: 10em;
+    border-left: 5px solid #ffffff;
+    border-right: 5px solid #ffffff;
+
+    width:105px;
+
+    
+}
+#website_header_b {
+    padding : 0px;
+    margin : 0px;
+    background-color: #0099ff ;
+    border-bottom: 5px solid #ffffff;
+
+
+    height:60px;   
+    width: 100%;
+}
+
+#website_header_c {
+    padding : 10px;
+    background-color: #0099ff ;
+    border-bottom: 10px solid #ffffff;
+
+    border-bottom-right-radius: 10em;
+    border-bottom-left-radius: 10em;
+    border-left: 5px solid #ffffff;
+    border-right: 5px solid #ffffff;
+
+    width:105px;
+
+    
+}
+
+#logo_circle {
+    border-bottom-right-radius: 10em;
+    border-bottom-left-radius: 10em;
+    border-top-right-radius: 10em;
+    border-top-left-radius: 10em;
+
+    width:100px;
+    height:100px;
+
+    background-color: #ffffff;
+
+    border : 2px solid #000000;
+}
+
+#topbar_ul {
+    list-style: none;
+    padding : 0px;
+    margin : 0px;
+
+    display:inline-flex;
+    width: 100%;
+}
+
+#topbar_ul #v_separator {
+    width:5px;
+    height:60px;
+
+    background-color: #ffffff;
+
+    margin-right: 10px;
+    margin-left: 10px;
+}
