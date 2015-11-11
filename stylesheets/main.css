@@ -1,3 +1,9 @@
+* {
+    -webkit-box-sizing: content-box;
+       -moz-box-sizing: content-box;
+            box-sizing: content-box;
+}
+
 #top_bar {
     width:100%;
     position: fixed;
@@ -58,7 +64,7 @@
 
     border : 2px solid #000000;
 
-    box-sizing :none;
+    
 }
 
 #topbar_ul {
